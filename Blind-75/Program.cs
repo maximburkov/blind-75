@@ -2,6 +2,7 @@
 
 using Blind_75;
 using Blind_75.Array;
+using Blind_75.LinkedList;
 
-ISolution solution = new TwoSum();
+ISolution solution = new MergeTwoSortedLists();
 solution.Solve();

@@ -2,6 +2,7 @@
 
 namespace Blind_75.Array;
 
+// https://leetcode.com/problems/two-sum/
 public class TwoSum : ISolution
 {
     public void Solve()

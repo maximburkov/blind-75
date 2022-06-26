@@ -1,5 +1,6 @@
 ﻿namespace Blind_75.String;
 
+// https://leetcode.com/problems/valid-parentheses/
 public class Valid_Parentheses : ISolution
 {
     public void Solve()
