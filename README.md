@@ -91,7 +91,7 @@
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
@@ -104,7 +104,7 @@
 ## Tree
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
