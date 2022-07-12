@@ -6,5 +6,5 @@ using Blind_75.LinkedList;
 using Blind_75.String;
 using Blind_75.Tree;
 
-ISolution solution = new FloodFillTask();
+ISolution solution = new MaximumSubarray();
 solution.Solve();
