@@ -7,6 +7,7 @@ using Blind_75.LinkedList;
 using Blind_75.String;
 using Blind_75.Tree;
 
-ISolution solution = new ReturnMajorityElement();
+ISolution solution = new DiameterTree();
 solution.Solve();
+
 
