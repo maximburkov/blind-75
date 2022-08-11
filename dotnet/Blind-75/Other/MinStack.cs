@@ -9,7 +9,6 @@ public class MinStack
     {
         _stack = new();
         _minStack = new();
-
     }
     
     public void Push(int val)
