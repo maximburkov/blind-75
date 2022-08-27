@@ -11,7 +11,7 @@ using Blind_75.Other;
 using Blind_75.String;
 using Blind_75.Tree;
 
-ISolution solution = new LetterCombinationPhoneNumber();
+ISolution solution = new TrappingRainWater();
 solution.Solve();
 
 

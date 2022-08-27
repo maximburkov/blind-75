@@ -42,29 +42,4 @@ public class InvertBinaryTree : ISolution
         InvertNodes(node.left);
         InvertNodes(node.right);
     }
-
-    private void SwapChildren(TreeNode node)
-    {
-        // Old way
-        var temp = node.left;
-        node.left = node.right;
-        node.right = temp;
-        
-        // Swapping with Tuples
-        (node.left, node.right) = (node.right, node.left);
-    }
-
-    private void SwapArray(int[] array, int i, int j)
-    {
-        // Swap Array
-        (array[i], array[j]) = (array[j], array[i]);
-        
-        // Swap array lowered
-        ref int reference = ref array[i];
-        ref int reference2 = ref array[j];
-        int num = array[j];
-        int num2 = array[i];
-        reference = num;
-        reference2 = num2;
-    }
 }
