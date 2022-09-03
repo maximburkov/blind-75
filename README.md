@@ -38,7 +38,7 @@
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
@@ -48,7 +48,7 @@
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [ ] [Alien Dictionary (Leetcode Premium)](https://leetcode.com/problems/alien-dictionary/)
 - [ ] [Graph Valid Tree (Leetcode Premium)](https://leetcode.com/problems/graph-valid-tree/)
@@ -58,7 +58,7 @@
 
 ## Interval
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [-] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
@@ -71,7 +71,7 @@
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
@@ -121,6 +121,6 @@
 
 ## Heap
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)

@@ -11,7 +11,8 @@ using Blind_75.Other;
 using Blind_75.String;
 using Blind_75.Tree;
 
-ISolution solution = new TrappingRainWater();
+
+ISolution solution = new LargestRectangleInHistogram();
 solution.Solve();
 
 
