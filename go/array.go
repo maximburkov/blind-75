@@ -1,4 +1,4 @@
-package besttimetosell
+package main
 
 func MaxProfit(prices []int) int {
 	min := prices[0]
